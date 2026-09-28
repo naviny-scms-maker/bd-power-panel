@@ -1,8 +1,10 @@
 # Bangladesh power system: plant-day panel, 2024-2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23012648.svg)](https://doi.org/10.5281/zenodo.23012648)
+
 A daily, plant-level panel of Bangladesh's electricity system, constructed from the public archive of daily generation reports published by the Bangladesh Power Development Board (BPDB) and the National Load Dispatch Center of Power Grid Bangladesh (PGCB).
 
-The data files are deposited separately at Mendeley Data; this repository holds the code that builds them.
+The data files are deposited separately at Mendeley Data, doi: 10.17632/p7mvb26p4t.1; this repository holds the code that builds them.
 
 ## Coverage
 
@@ -56,7 +58,9 @@ The source documents are public records published by BPDB and PGCB. This reposit
 
 ## Citation
 
-Navin, Y. (2026). *Bangladesh power system: plant-day panel, 2024-2026* [Data set]. Mendeley Data. doi: [to be assigned]
+Code: Navin, Y. (2026). *Bangladesh power system: plant-day panel, 2024-2026* [Software]. Zenodo. doi: 10.5281/zenodo.23012648
+
+Data: Navin, Y. (2026). *Bangladesh power system: plant-day panel, 2024-2026* [Data set]. Mendeley Data, V1. doi: 10.17632/p7mvb26p4t.1
 
 Accompanying article: Navin, Y. *Prices or quantities? Administered energy prices, inventories and the 2026 Hormuz shock in Bangladesh.*
 
