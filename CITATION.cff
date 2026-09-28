@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Bangladesh power system: plant-day panel, 2024-2026"
+message: "If you use this dataset or code, please cite it as below."
+type: software
+authors:
+  - family-names: "Navin"
+    given-names: "Y."
+    orcid: "https://orcid.org/0009-0003-4608-7236"
+license: MIT
+date-released: 2026-09-28
+version: "1.0"
+repository-code: "https://github.com/naviny-scms-maker/bd-power-panel"
+keywords:
+  - electricity
+  - Bangladesh
+  - power plants
+  - energy security
+  - LNG
+  - dispatch data
