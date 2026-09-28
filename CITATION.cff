@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0003-4608-7236"
 license: MIT
 date-released: 2026-09-28
-version: "1.0"
+version: "1.0.1"doi: "10.5281/zenodo.23012648"
 repository-code: "https://github.com/naviny-scms-maker/bd-power-panel"
 keywords:
   - electricity
